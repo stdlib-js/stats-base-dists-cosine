@@ -53,7 +53,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.cosine;
+})();
 })();
 </script>
 ```
@@ -143,9 +145,11 @@ var y = dist.cdf( 0.5 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 console.log( objectKeys( cosine ) );
 
+})();
 })();
 </script>
 </body>
@@ -237,33 +241,33 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 
 <!-- <toc-links> -->
 
-[@stdlib/stats/base/dists/cosine/ctor]: https://github.com/stdlib-js/stats-base-dists-cosine-ctor/tree/umd
+[@stdlib/stats/base/dists/cosine/ctor]: https://github.com/stdlib-js/stats-base-dists-cosine-ctor/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/cosine/kurtosis]: https://github.com/stdlib-js/stats-base-dists-cosine-kurtosis/tree/umd
+[@stdlib/stats/base/dists/cosine/kurtosis]: https://github.com/stdlib-js/stats-base-dists-cosine-kurtosis/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/cosine/mean]: https://github.com/stdlib-js/stats-base-dists-cosine-mean/tree/umd
+[@stdlib/stats/base/dists/cosine/mean]: https://github.com/stdlib-js/stats-base-dists-cosine-mean/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/cosine/median]: https://github.com/stdlib-js/stats-base-dists-cosine-median/tree/umd
+[@stdlib/stats/base/dists/cosine/median]: https://github.com/stdlib-js/stats-base-dists-cosine-median/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/cosine/mode]: https://github.com/stdlib-js/stats-base-dists-cosine-mode/tree/umd
+[@stdlib/stats/base/dists/cosine/mode]: https://github.com/stdlib-js/stats-base-dists-cosine-mode/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/cosine/skewness]: https://github.com/stdlib-js/stats-base-dists-cosine-skewness/tree/umd
+[@stdlib/stats/base/dists/cosine/skewness]: https://github.com/stdlib-js/stats-base-dists-cosine-skewness/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/cosine/stdev]: https://github.com/stdlib-js/stats-base-dists-cosine-stdev/tree/umd
+[@stdlib/stats/base/dists/cosine/stdev]: https://github.com/stdlib-js/stats-base-dists-cosine-stdev/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/cosine/variance]: https://github.com/stdlib-js/stats-base-dists-cosine-variance/tree/umd
+[@stdlib/stats/base/dists/cosine/variance]: https://github.com/stdlib-js/stats-base-dists-cosine-variance/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/cosine/cdf]: https://github.com/stdlib-js/stats-base-dists-cosine-cdf/tree/umd
+[@stdlib/stats/base/dists/cosine/cdf]: https://github.com/stdlib-js/stats-base-dists-cosine-cdf/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/cosine/logcdf]: https://github.com/stdlib-js/stats-base-dists-cosine-logcdf/tree/umd
+[@stdlib/stats/base/dists/cosine/logcdf]: https://github.com/stdlib-js/stats-base-dists-cosine-logcdf/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/cosine/logpdf]: https://github.com/stdlib-js/stats-base-dists-cosine-logpdf/tree/umd
+[@stdlib/stats/base/dists/cosine/logpdf]: https://github.com/stdlib-js/stats-base-dists-cosine-logpdf/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/cosine/mgf]: https://github.com/stdlib-js/stats-base-dists-cosine-mgf/tree/umd
+[@stdlib/stats/base/dists/cosine/mgf]: https://github.com/stdlib-js/stats-base-dists-cosine-mgf/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/cosine/pdf]: https://github.com/stdlib-js/stats-base-dists-cosine-pdf/tree/umd
+[@stdlib/stats/base/dists/cosine/pdf]: https://github.com/stdlib-js/stats-base-dists-cosine-pdf/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/cosine/quantile]: https://github.com/stdlib-js/stats-base-dists-cosine-quantile/tree/umd
+[@stdlib/stats/base/dists/cosine/quantile]: https://github.com/stdlib-js/stats-base-dists-cosine-quantile/tree/umd/tree/umd
 
 <!-- </toc-links> -->
 
