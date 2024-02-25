@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cosine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine@deno/mod.js';
+import cosine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine@v0.2.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { Cosine, cdf, kurtosis, logcdf, logpdf, mean, median, mgf, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine@deno/mod.js';
+import { Cosine, cdf, kurtosis, logcdf, logpdf, mean, median, mgf, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine@v0.2.1-deno/mod.js';
 ```
 
 #### cosine
@@ -130,7 +130,7 @@ var y = dist.cdf( 0.5 );
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import cosine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine@deno/mod.js';
+import cosine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine@v0.2.1-deno/mod.js';
 
 console.log( objectKeys( cosine ) );
 ```
