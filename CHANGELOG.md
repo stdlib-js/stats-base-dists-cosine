@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2025-03-17)
 
 <section class="packages">
 
@@ -34,6 +34,346 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="stats-base-dists-cosine-cdf-unreleased">
+
+#### [@stdlib/stats/base/dists/cosine/cdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/cosine/cdf)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`eaef370`](https://github.com/stdlib-js/stdlib/commit/eaef370daaae0e0fbcfc97652060c3cc5088ac96) - add C implementation for `stats/base/dists/cosine/cdf` [(#4498)](https://github.com/stdlib-js/stdlib/pull/4498)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3514](https://github.com/stdlib-js/stdlib/issues/3514)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-cosine-kurtosis-unreleased">
+
+#### [@stdlib/stats/base/dists/cosine/kurtosis](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/cosine/kurtosis)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`8d8e866`](https://github.com/stdlib-js/stdlib/commit/8d8e86663fe6f285311cedd9fa0e97af126e10ac) - add C implementation for `stats/base/dists/cosine/kurtosis` [(#4477)](https://github.com/stdlib-js/stdlib/pull/4477)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3515](https://github.com/stdlib-js/stdlib/issues/3515)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-cosine-logcdf-unreleased">
+
+#### [@stdlib/stats/base/dists/cosine/logcdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/cosine/logcdf)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`5f6bc87`](https://github.com/stdlib-js/stdlib/commit/5f6bc87d96a21664aeb7f4b097f03ba45ebb90ab) - add C implementation for `stats/base/dists/cosine/logcdf` [(#4499)](https://github.com/stdlib-js/stdlib/pull/4499)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3516](https://github.com/stdlib-js/stdlib/issues/3516)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-cosine-logpdf-unreleased">
+
+#### [@stdlib/stats/base/dists/cosine/logpdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/cosine/logpdf)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`4aec525`](https://github.com/stdlib-js/stdlib/commit/4aec52554b4f7ee67fbbc32cc3f8f937cd5987d2) - add C implementation for `stats/base/dists/cosine/logpdf` [(#4502)](https://github.com/stdlib-js/stdlib/pull/4502)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3517](https://github.com/stdlib-js/stdlib/issues/3517)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-cosine-median-unreleased">
+
+#### [@stdlib/stats/base/dists/cosine/median](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/cosine/median)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`19e6e7b`](https://github.com/stdlib-js/stdlib/commit/19e6e7b54f1fe359646788b33ac89bcc70f0ad21) - add C implementation for `stats/base/dists/cosine/median` [(#4467)](https://github.com/stdlib-js/stdlib/pull/4467)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3519](https://github.com/stdlib-js/stdlib/issues/3519)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-cosine-mgf-unreleased">
+
+#### [@stdlib/stats/base/dists/cosine/mgf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/cosine/mgf)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`ecd8369`](https://github.com/stdlib-js/stdlib/commit/ecd836903721f0f381eb71739a785cb0077ccf01) - add C implementation for `stats/base/dists/cosine/mgf` [(#4510)](https://github.com/stdlib-js/stdlib/pull/4510)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3520](https://github.com/stdlib-js/stdlib/issues/3520)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-cosine-mode-unreleased">
+
+#### [@stdlib/stats/base/dists/cosine/mode](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/cosine/mode)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`d5e0a74`](https://github.com/stdlib-js/stdlib/commit/d5e0a74ba2ba7a4632a1d31b2b949c4b42bec323) - add C implementation for `stats/base/dists/cosine/mode` [(#4476)](https://github.com/stdlib-js/stdlib/pull/4476)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3521](https://github.com/stdlib-js/stdlib/issues/3521)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-cosine-pdf-unreleased">
+
+#### [@stdlib/stats/base/dists/cosine/pdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/cosine/pdf)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`a0ac787`](https://github.com/stdlib-js/stdlib/commit/a0ac78799e6a7a99f5b68b0b73b680eeba6bd53d) - add C implementation for `stats/base/dists/cosine/pdf` [(#4500)](https://github.com/stdlib-js/stdlib/pull/4500)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3522](https://github.com/stdlib-js/stdlib/issues/3522)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-cosine-skewness-unreleased">
+
+#### [@stdlib/stats/base/dists/cosine/skewness](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/cosine/skewness)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`5e8558a`](https://github.com/stdlib-js/stdlib/commit/5e8558a41efa061be5b4dfc04490dfe3c71f5481) - add C implementation for `stats/base/dists/cosine/skewness` [(#4469)](https://github.com/stdlib-js/stdlib/pull/4469)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3524](https://github.com/stdlib-js/stdlib/issues/3524)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-cosine-stdev-unreleased">
+
+#### [@stdlib/stats/base/dists/cosine/stdev](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/cosine/stdev)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`0cc8c9c`](https://github.com/stdlib-js/stdlib/commit/0cc8c9cb0e63c69484c69693c32b3d55dea66532) - add C implementation for `stats/base/dists/cosine/stdev` [(#4468)](https://github.com/stdlib-js/stdlib/pull/4468)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3525](https://github.com/stdlib-js/stdlib/issues/3525)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
@@ -42,9 +382,9 @@ This release closes the following issue:
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 11 issues were closed in this release:
 
-[#1620](https://github.com/stdlib-js/stdlib/issues/1620)
+[#1620](https://github.com/stdlib-js/stdlib/issues/1620), [#3514](https://github.com/stdlib-js/stdlib/issues/3514), [#3515](https://github.com/stdlib-js/stdlib/issues/3515), [#3516](https://github.com/stdlib-js/stdlib/issues/3516), [#3517](https://github.com/stdlib-js/stdlib/issues/3517), [#3519](https://github.com/stdlib-js/stdlib/issues/3519), [#3520](https://github.com/stdlib-js/stdlib/issues/3520), [#3521](https://github.com/stdlib-js/stdlib/issues/3521), [#3522](https://github.com/stdlib-js/stdlib/issues/3522), [#3524](https://github.com/stdlib-js/stdlib/issues/3524), [#3525](https://github.com/stdlib-js/stdlib/issues/3525)
 
 </section>
 
@@ -54,10 +394,14 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
+-   Aayush Khanna
+-   Athan Reines
+-   Karan Anand
 -   Kohantika Nath
 -   Philipp Burckhardt
+-   Prashant Kumar Yadav
 
 </section>
 
@@ -69,6 +413,32 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`f7988d3`](https://github.com/stdlib-js/stdlib/commit/f7988d3c02e0eff3bd9bd7523b5dc975bb98dc0e) - **bench:** fix `isnan` checks in `stats/base/dists` [(#5296)](https://github.com/stdlib-js/stdlib/pull/5296) _(by Karan Anand)_
+-   [`d53a818`](https://github.com/stdlib-js/stdlib/commit/d53a8184c029c3df7c45a7a1a2da9ff90b4f883e) - **docs:** fix errors in the structure of READMEs in `stats/base/*` [(#5138)](https://github.com/stdlib-js/stdlib/pull/5138) _(by Aayush Khanna)_
+-   [`247af42`](https://github.com/stdlib-js/stdlib/commit/247af42a6ec69194b9d251be4785c120155d7fd8) - **bench:** refactor random number generation in `stats/base/dists/cosine` [(#4861)](https://github.com/stdlib-js/stdlib/pull/4861) _(by Karan Anand)_
+-   [`3446619`](https://github.com/stdlib-js/stdlib/commit/344661922e465e67e62f35dde8e5ac3010dc80a4) - **chore:** minor clean-up _(by Philipp Burckhardt)_
+-   [`b0790e4`](https://github.com/stdlib-js/stdlib/commit/b0790e41abbacf8f6b7a778dc2e8e552870fdc22) - **refactor:** precompute constant _(by Philipp Burckhardt)_
+-   [`1a0d851`](https://github.com/stdlib-js/stdlib/commit/1a0d85130cde680109ebf3307a4fb5c39c5ee8ae) - **refactor:** precompute constant _(by Philipp Burckhardt)_
+-   [`c4ef550`](https://github.com/stdlib-js/stdlib/commit/c4ef5500174a0d77a90b1a72be560938ac56d58d) - **chore:** minor clean-up _(by Philipp Burckhardt)_
+-   [`05b5326`](https://github.com/stdlib-js/stdlib/commit/05b5326d097c6f4ebf4af11c6e92d5da1410caca) - **chore:** minor clean-up _(by Philipp Burckhardt)_
+-   [`d199580`](https://github.com/stdlib-js/stdlib/commit/d19958025c3494ec94440c4d4d66e580d145e71e) - **test:** correcly pass options for native tests _(by Philipp Burckhardt)_
+-   [`a203308`](https://github.com/stdlib-js/stdlib/commit/a2033080838f7056796d2bd6f0096e11c25c7da4) - **chore:** add missing empty lines _(by Philipp Burckhardt)_
+-   [`33a4af8`](https://github.com/stdlib-js/stdlib/commit/33a4af8ea02d79120618cb4d50edb87d8aeab6a0) - **chore:** remove extra spaces _(by Philipp Burckhardt)_
+-   [`895313e`](https://github.com/stdlib-js/stdlib/commit/895313e08f1006053fd6d995494bdf546002694e) - **docs:** update descriptions _(by Athan Reines)_
+-   [`ecd8369`](https://github.com/stdlib-js/stdlib/commit/ecd836903721f0f381eb71739a785cb0077ccf01) - **feat:** add C implementation for `stats/base/dists/cosine/mgf` [(#4510)](https://github.com/stdlib-js/stdlib/pull/4510) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
+-   [`a0ac787`](https://github.com/stdlib-js/stdlib/commit/a0ac78799e6a7a99f5b68b0b73b680eeba6bd53d) - **feat:** add C implementation for `stats/base/dists/cosine/pdf` [(#4500)](https://github.com/stdlib-js/stdlib/pull/4500) _(by Prashant Kumar Yadav)_
+-   [`8d8e866`](https://github.com/stdlib-js/stdlib/commit/8d8e86663fe6f285311cedd9fa0e97af126e10ac) - **feat:** add C implementation for `stats/base/dists/cosine/kurtosis` [(#4477)](https://github.com/stdlib-js/stdlib/pull/4477) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
+-   [`eaef370`](https://github.com/stdlib-js/stdlib/commit/eaef370daaae0e0fbcfc97652060c3cc5088ac96) - **feat:** add C implementation for `stats/base/dists/cosine/cdf` [(#4498)](https://github.com/stdlib-js/stdlib/pull/4498) _(by Prashant Kumar Yadav, stdlib-bot)_
+-   [`5f6bc87`](https://github.com/stdlib-js/stdlib/commit/5f6bc87d96a21664aeb7f4b097f03ba45ebb90ab) - **feat:** add C implementation for `stats/base/dists/cosine/logcdf` [(#4499)](https://github.com/stdlib-js/stdlib/pull/4499) _(by Prashant Kumar Yadav)_
+-   [`4aec525`](https://github.com/stdlib-js/stdlib/commit/4aec52554b4f7ee67fbbc32cc3f8f937cd5987d2) - **feat:** add C implementation for `stats/base/dists/cosine/logpdf` [(#4502)](https://github.com/stdlib-js/stdlib/pull/4502) _(by Prashant Kumar Yadav)_
+-   [`f3df15f`](https://github.com/stdlib-js/stdlib/commit/f3df15f118d563573f27d2d2b96e35b842f05a18) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
+-   [`fc0ff17`](https://github.com/stdlib-js/stdlib/commit/fc0ff171dab59e73e1748c1bff504166adc826c3) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
+-   [`1d5aa47`](https://github.com/stdlib-js/stdlib/commit/1d5aa47204c258b674d3db4aec92fbd2475e5ea7) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
+-   [`d5e0a74`](https://github.com/stdlib-js/stdlib/commit/d5e0a74ba2ba7a4632a1d31b2b949c4b42bec323) - **feat:** add C implementation for `stats/base/dists/cosine/mode` [(#4476)](https://github.com/stdlib-js/stdlib/pull/4476) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
+-   [`0cc8c9c`](https://github.com/stdlib-js/stdlib/commit/0cc8c9cb0e63c69484c69693c32b3d55dea66532) - **feat:** add C implementation for `stats/base/dists/cosine/stdev` [(#4468)](https://github.com/stdlib-js/stdlib/pull/4468) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
+-   [`19e6e7b`](https://github.com/stdlib-js/stdlib/commit/19e6e7b54f1fe359646788b33ac89bcc70f0ad21) - **feat:** add C implementation for `stats/base/dists/cosine/median` [(#4467)](https://github.com/stdlib-js/stdlib/pull/4467) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
+-   [`5e8558a`](https://github.com/stdlib-js/stdlib/commit/5e8558a41efa061be5b4dfc04490dfe3c71f5481) - **feat:** add C implementation for `stats/base/dists/cosine/skewness` [(#4469)](https://github.com/stdlib-js/stdlib/pull/4469) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
+-   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 -   [`e5b993a`](https://github.com/stdlib-js/stdlib/commit/e5b993a1b314d478be07dabc12a7b349872e4427) - **docs:** improve README examples of `stats/base/dists/cosine` namespace [(#2669)](https://github.com/stdlib-js/stdlib/pull/2669) _(by Kohantika Nath, Kohantika Nath, Philipp Burckhardt)_
 
 </details>
