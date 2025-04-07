@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
+## Unreleased (2025-04-07)
 
 <section class="packages">
 
@@ -159,6 +159,40 @@ This release closes the following issue:
 This release closes the following issue:
 
 [#3517](https://github.com/stdlib-js/stdlib/issues/3517)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-cosine-mean-unreleased">
+
+#### [@stdlib/stats/base/dists/cosine/mean](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/cosine/mean)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`1f53990`](https://github.com/stdlib-js/stdlib/commit/1f53990a00be857620285aa346fab8dc4a856b02) - add C implementation for `stats/base/dists/cosine/mean` [(#3985)](https://github.com/stdlib-js/stdlib/pull/3985)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3518](https://github.com/stdlib-js/stdlib/issues/3518)
 
 </section>
 
@@ -374,6 +408,40 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="stats-base-dists-cosine-variance-unreleased">
+
+#### [@stdlib/stats/base/dists/cosine/variance](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/cosine/variance)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`2529fff`](https://github.com/stdlib-js/stdlib/commit/2529fff8d35f0e63fb8bb7ae7f1cfc94aa697e32) - add C implementation for `stats/base/dists/cosine/variance` [(#3983)](https://github.com/stdlib-js/stdlib/pull/3983)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3526](https://github.com/stdlib-js/stdlib/issues/3526)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
@@ -382,9 +450,9 @@ This release closes the following issue:
 
 ### Closed Issues
 
-A total of 11 issues were closed in this release:
+A total of 13 issues were closed in this release:
 
-[#1620](https://github.com/stdlib-js/stdlib/issues/1620), [#3514](https://github.com/stdlib-js/stdlib/issues/3514), [#3515](https://github.com/stdlib-js/stdlib/issues/3515), [#3516](https://github.com/stdlib-js/stdlib/issues/3516), [#3517](https://github.com/stdlib-js/stdlib/issues/3517), [#3519](https://github.com/stdlib-js/stdlib/issues/3519), [#3520](https://github.com/stdlib-js/stdlib/issues/3520), [#3521](https://github.com/stdlib-js/stdlib/issues/3521), [#3522](https://github.com/stdlib-js/stdlib/issues/3522), [#3524](https://github.com/stdlib-js/stdlib/issues/3524), [#3525](https://github.com/stdlib-js/stdlib/issues/3525)
+[#1620](https://github.com/stdlib-js/stdlib/issues/1620), [#3514](https://github.com/stdlib-js/stdlib/issues/3514), [#3515](https://github.com/stdlib-js/stdlib/issues/3515), [#3516](https://github.com/stdlib-js/stdlib/issues/3516), [#3517](https://github.com/stdlib-js/stdlib/issues/3517), [#3518](https://github.com/stdlib-js/stdlib/issues/3518), [#3519](https://github.com/stdlib-js/stdlib/issues/3519), [#3520](https://github.com/stdlib-js/stdlib/issues/3520), [#3521](https://github.com/stdlib-js/stdlib/issues/3521), [#3522](https://github.com/stdlib-js/stdlib/issues/3522), [#3524](https://github.com/stdlib-js/stdlib/issues/3524), [#3525](https://github.com/stdlib-js/stdlib/issues/3525), [#3526](https://github.com/stdlib-js/stdlib/issues/3526)
 
 </section>
 
@@ -394,10 +462,11 @@ A total of 11 issues were closed in this release:
 
 ### Contributors
 
-A total of 6 people contributed to this release. Thank you to the following contributors:
+A total of 7 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
+-   Divyansh Seth
 -   Karan Anand
 -   Kohantika Nath
 -   Philipp Burckhardt
@@ -413,6 +482,11 @@ A total of 6 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`d7721ac`](https://github.com/stdlib-js/stdlib/commit/d7721acc432ec419630e74bb49db5ccccc3cd1d5) - **docs:** fix C example code _(by Philipp Burckhardt)_
+-   [`1f53990`](https://github.com/stdlib-js/stdlib/commit/1f53990a00be857620285aa346fab8dc4a856b02) - **feat:** add C implementation for `stats/base/dists/cosine/mean` [(#3985)](https://github.com/stdlib-js/stdlib/pull/3985) _(by Divyansh Seth, Philipp Burckhardt, stdlib-bot)_
+-   [`cc2d62e`](https://github.com/stdlib-js/stdlib/commit/cc2d62e3aac6caac0fd33252640521d0b563c22a) - **chore:** clean-up _(by Athan Reines)_
+-   [`2529fff`](https://github.com/stdlib-js/stdlib/commit/2529fff8d35f0e63fb8bb7ae7f1cfc94aa697e32) - **feat:** add C implementation for `stats/base/dists/cosine/variance` [(#3983)](https://github.com/stdlib-js/stdlib/pull/3983) _(by Aayush Khanna, Philipp Burckhardt, stdlib-bot)_
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`f7988d3`](https://github.com/stdlib-js/stdlib/commit/f7988d3c02e0eff3bd9bd7523b5dc975bb98dc0e) - **bench:** fix `isnan` checks in `stats/base/dists` [(#5296)](https://github.com/stdlib-js/stdlib/pull/5296) _(by Karan Anand)_
 -   [`d53a818`](https://github.com/stdlib-js/stdlib/commit/d53a8184c029c3df7c45a7a1a2da9ff90b4f883e) - **docs:** fix errors in the structure of READMEs in `stats/base/*` [(#5138)](https://github.com/stdlib-js/stdlib/pull/5138) _(by Aayush Khanna)_
 -   [`247af42`](https://github.com/stdlib-js/stdlib/commit/247af42a6ec69194b9d251be4785c120155d7fd8) - **bench:** refactor random number generation in `stats/base/dists/cosine` [(#4861)](https://github.com/stdlib-js/stdlib/pull/4861) _(by Karan Anand)_
