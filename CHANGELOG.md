@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-26)
+## Unreleased (2025-11-07)
 
 <section class="features">
 
 ### Features
 
+-   [`079d040`](https://github.com/stdlib-js/stdlib/commit/079d04046139093c7b4dea9f30b6004a8263c911) - add C implementation for `stats/base/dists/cosine/quantile` [(#6283)](https://github.com/stdlib-js/stdlib/pull/6283)
 -   [`1f53990`](https://github.com/stdlib-js/stdlib/commit/1f53990a00be857620285aa346fab8dc4a856b02) - add C implementation for `stats/base/dists/cosine/mean` [(#3985)](https://github.com/stdlib-js/stdlib/pull/3985)
 -   [`2529fff`](https://github.com/stdlib-js/stdlib/commit/2529fff8d35f0e63fb8bb7ae7f1cfc94aa697e32) - add C implementation for `stats/base/dists/cosine/variance` [(#3983)](https://github.com/stdlib-js/stdlib/pull/3983)
 -   [`ecd8369`](https://github.com/stdlib-js/stdlib/commit/ecd836903721f0f381eb71739a785cb0077ccf01) - add C implementation for `stats/base/dists/cosine/mgf` [(#4510)](https://github.com/stdlib-js/stdlib/pull/4510)
@@ -27,13 +28,27 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`e457c7a`](https://github.com/stdlib-js/stdlib/commit/e457c7a03b29c7a470c165b21d77c85e4b21a4a1) - remove unused `eps` dependency from `cosine/pdf` build task
+-   [`3a6a270`](https://github.com/stdlib-js/stdlib/commit/3a6a2702d22c310869b5896404a5456db5ed9312) - remove unused `eps` dependency from `cosine/median` build task
+-   [`faa4ec6`](https://github.com/stdlib-js/stdlib/commit/faa4ec6547c9fb72f6a0ba0ebe0cbeaf405becca) - remove unused `eps` dependency from `cosine/logpdf` build task
+-   [`23d8106`](https://github.com/stdlib-js/stdlib/commit/23d81062f03e38da13c2a9d4d00983a1a4993b8b) - remove unused `eps` dependency from `cosine/logcdf` build task
+-   [`8dfe021`](https://github.com/stdlib-js/stdlib/commit/8dfe0212136eb297a3d1842a337d179034bdf743) - clean-up nonfibonacci implementation and remove unused deps
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="issues">
 
 ### Closed Issues
 
-A total of 13 issues were closed in this release:
+A total of 15 issues were closed in this release:
 
-[#1620](https://github.com/stdlib-js/stdlib/issues/1620), [#3514](https://github.com/stdlib-js/stdlib/issues/3514), [#3515](https://github.com/stdlib-js/stdlib/issues/3515), [#3516](https://github.com/stdlib-js/stdlib/issues/3516), [#3517](https://github.com/stdlib-js/stdlib/issues/3517), [#3518](https://github.com/stdlib-js/stdlib/issues/3518), [#3519](https://github.com/stdlib-js/stdlib/issues/3519), [#3520](https://github.com/stdlib-js/stdlib/issues/3520), [#3521](https://github.com/stdlib-js/stdlib/issues/3521), [#3522](https://github.com/stdlib-js/stdlib/issues/3522), [#3524](https://github.com/stdlib-js/stdlib/issues/3524), [#3525](https://github.com/stdlib-js/stdlib/issues/3525), [#3526](https://github.com/stdlib-js/stdlib/issues/3526)
+[#1620](https://github.com/stdlib-js/stdlib/issues/1620), [#3514](https://github.com/stdlib-js/stdlib/issues/3514), [#3515](https://github.com/stdlib-js/stdlib/issues/3515), [#3516](https://github.com/stdlib-js/stdlib/issues/3516), [#3517](https://github.com/stdlib-js/stdlib/issues/3517), [#3518](https://github.com/stdlib-js/stdlib/issues/3518), [#3519](https://github.com/stdlib-js/stdlib/issues/3519), [#3520](https://github.com/stdlib-js/stdlib/issues/3520), [#3521](https://github.com/stdlib-js/stdlib/issues/3521), [#3522](https://github.com/stdlib-js/stdlib/issues/3522), [#3523](https://github.com/stdlib-js/stdlib/issues/3523), [#3524](https://github.com/stdlib-js/stdlib/issues/3524), [#3525](https://github.com/stdlib-js/stdlib/issues/3525), [#3526](https://github.com/stdlib-js/stdlib/issues/3526), [#8168](https://github.com/stdlib-js/stdlib/issues/8168)
 
 </section>
 
@@ -45,8 +60,29 @@ A total of 13 issues were closed in this release:
 
 <details>
 
--   [`6792321`](https://github.com/stdlib-js/stdlib/commit/6792321ed5029b40a9ed15ac3f2dba212eb713e0) - **docs:** replace manual `for` loop in examples [(#7074)](https://github.com/stdlib-js/stdlib/pull/7074) _(by Harsh)_
--   [`5bed283`](https://github.com/stdlib-js/stdlib/commit/5bed2837d020e3ea6f8452e85b0f7008d4d76b68) - **docs:** replace manual `for` loop in examples [(#7075)](https://github.com/stdlib-js/stdlib/pull/7075) _(by Harsh)_
+-   [`b893587`](https://github.com/stdlib-js/stdlib/commit/b893587169727ab72e382fe40ff2c0b9bb7078e7) - **chore:** resolve lint failures _(by Athan Reines)_
+-   [`97684e4`](https://github.com/stdlib-js/stdlib/commit/97684e405691f707a532d542ea0f4ea106234588) - **chore:** fix EditorConfig lint errors [(#8178)](https://github.com/stdlib-js/stdlib/pull/8178) _(by navyansh007, Philipp Burckhardt)_
+-   [`e2efe32`](https://github.com/stdlib-js/stdlib/commit/e2efe32914d0d9dae5da34e6f7e7bf7655430710) - **chore:** rename exported variable in d.ts file to match name used in example code _(by Philipp Burckhardt)_
+-   [`e678757`](https://github.com/stdlib-js/stdlib/commit/e678757c9a62631a907278ec13a5d7b27c0f1e15) - **docs:** fix return annotation values _(by Philipp Burckhardt)_
+-   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
+-   [`8ea46b6`](https://github.com/stdlib-js/stdlib/commit/8ea46b662dc6e27231d250d101e33a3cf770cd77) - **test:** update descriptions to match language used in JS tests _(by Philipp Burckhardt)_
+-   [`716f93d`](https://github.com/stdlib-js/stdlib/commit/716f93d14c76e1dda5b02c365a17a2519da3cada) - **chore:** add missing benchmark and examples dependencies _(by Philipp Burckhardt)_
+-   [`a4ce77e`](https://github.com/stdlib-js/stdlib/commit/a4ce77efe910c9398e75b767fb81e786a3a04cc0) - **test:** pass in opts to skip if addon is not available _(by Philipp Burckhardt)_
+-   [`079d040`](https://github.com/stdlib-js/stdlib/commit/079d04046139093c7b4dea9f30b6004a8263c911) - **feat:** add C implementation for `stats/base/dists/cosine/quantile` [(#6283)](https://github.com/stdlib-js/stdlib/pull/6283) _(by Harishchandra Reddy, Philipp Burckhardt, stdlib-bot)_
+-   [`e457c7a`](https://github.com/stdlib-js/stdlib/commit/e457c7a03b29c7a470c165b21d77c85e4b21a4a1) - **fix:** remove unused `eps` dependency from `cosine/pdf` build task _(by Philipp Burckhardt)_
+-   [`3a6a270`](https://github.com/stdlib-js/stdlib/commit/3a6a2702d22c310869b5896404a5456db5ed9312) - **fix:** remove unused `eps` dependency from `cosine/median` build task _(by Philipp Burckhardt)_
+-   [`faa4ec6`](https://github.com/stdlib-js/stdlib/commit/faa4ec6547c9fb72f6a0ba0ebe0cbeaf405becca) - **fix:** remove unused `eps` dependency from `cosine/logpdf` build task _(by Philipp Burckhardt)_
+-   [`23d8106`](https://github.com/stdlib-js/stdlib/commit/23d81062f03e38da13c2a9d4d00983a1a4993b8b) - **fix:** remove unused `eps` dependency from `cosine/logcdf` build task _(by Philipp Burckhardt)_
+-   [`8dfe021`](https://github.com/stdlib-js/stdlib/commit/8dfe0212136eb297a3d1842a337d179034bdf743) - **fix:** clean-up nonfibonacci implementation and remove unused deps _(by Philipp Burckhardt)_
+-   [`7b3dea1`](https://github.com/stdlib-js/stdlib/commit/7b3dea19db4333cc20d6deb6de1f62ed307ffeb5) - **test:** use correct function name _(by Philipp Burckhardt)_
+-   [`2a44b1b`](https://github.com/stdlib-js/stdlib/commit/2a44b1b1028e5218e54c6b0677dc319493a5391b) - **test:** use standard deviation instead of stdev _(by Philipp Burckhardt)_
+-   [`2f1bc9e`](https://github.com/stdlib-js/stdlib/commit/2f1bc9eb0ca087fb141fd68d1fe7704317be49a1) - **bench:** update random value generation [(#7093)](https://github.com/stdlib-js/stdlib/pull/7093) _(by Harsh Yadav)_
+-   [`2ad245f`](https://github.com/stdlib-js/stdlib/commit/2ad245f8ea17a02a55fb41de90a7d6ee7c738c87) - **bench:** update random value generation [(#7094)](https://github.com/stdlib-js/stdlib/pull/7094) _(by Harsh Yadav)_
+-   [`6792321`](https://github.com/stdlib-js/stdlib/commit/6792321ed5029b40a9ed15ac3f2dba212eb713e0) - **docs:** replace manual `for` loop in examples [(#7074)](https://github.com/stdlib-js/stdlib/pull/7074) _(by Harsh Yadav)_
+-   [`5bed283`](https://github.com/stdlib-js/stdlib/commit/5bed2837d020e3ea6f8452e85b0f7008d4d76b68) - **docs:** replace manual `for` loop in examples [(#7075)](https://github.com/stdlib-js/stdlib/pull/7075) _(by Harsh Yadav)_
 -   [`5f73301`](https://github.com/stdlib-js/stdlib/commit/5f73301a8509cc423a06b02140c4e316fd02ff49) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`b6ad3e2`](https://github.com/stdlib-js/stdlib/commit/b6ad3e2323bb7952819c34578467f382a7cace3e) - **chore:** clean-up _(by Athan Reines)_
 -   [`d7721ac`](https://github.com/stdlib-js/stdlib/commit/d7721acc432ec419630e74bb49db5ccccc3cd1d5) - **docs:** fix C example code _(by Philipp Burckhardt)_
@@ -92,16 +128,18 @@ A total of 13 issues were closed in this release:
 
 ### Contributors
 
-A total of 8 people contributed to this release. Thank you to the following contributors:
+A total of 10 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   Divyansh Seth
--   Harsh
+-   Harishchandra Reddy
+-   Harsh Yadav
 -   Karan Anand
 -   Kohantika Nath
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
+-   navyansh007
 
 </section>
 
