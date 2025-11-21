@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-07)
+## Unreleased (2025-11-21)
 
 <section class="features">
 
@@ -60,6 +60,7 @@ A total of 15 issues were closed in this release:
 
 <details>
 
+-   [`9b13062`](https://github.com/stdlib-js/stdlib/commit/9b130625f0f19866a877023e9be85204636ef01e) - **docs:** fix return values in TSDoc return annotation comments _(by Philipp Burckhardt)_
 -   [`b893587`](https://github.com/stdlib-js/stdlib/commit/b893587169727ab72e382fe40ff2c0b9bb7078e7) - **chore:** resolve lint failures _(by Athan Reines)_
 -   [`97684e4`](https://github.com/stdlib-js/stdlib/commit/97684e405691f707a532d542ea0f4ea106234588) - **chore:** fix EditorConfig lint errors [(#8178)](https://github.com/stdlib-js/stdlib/pull/8178) _(by navyansh007, Philipp Burckhardt)_
 -   [`e2efe32`](https://github.com/stdlib-js/stdlib/commit/e2efe32914d0d9dae5da34e6f7e7bf7655430710) - **chore:** rename exported variable in d.ts file to match name used in example code _(by Philipp Burckhardt)_
