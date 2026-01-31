@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cosine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine@esm/index.mjs';
+import cosine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine@v0.3.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { Cosine, cdf, kurtosis, logcdf, logpdf, mean, median, mgf, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine@esm/index.mjs';
+import { Cosine, cdf, kurtosis, logcdf, logpdf, mean, median, mgf, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine@v0.3.0-esm/index.mjs';
 ```
 
 #### cosine
@@ -134,7 +134,7 @@ var y = dist.cdf( 0.5 );
 <body>
 <script type="module">
 
-import cosine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine@esm/index.mjs';
+import cosine from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cosine@v0.3.0-esm/index.mjs';
 
 // Create a raised cosine distribution:
 var mu = 2.0;
