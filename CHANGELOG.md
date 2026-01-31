@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2026-01-05)
+## 0.3.0 (2026-01-31)
 
 <section class="features">
 
@@ -46,9 +46,9 @@
 
 ### Closed Issues
 
-A total of 15 issues were closed in this release:
+A total of 16 issues were closed in this release:
 
-[#1620](https://github.com/stdlib-js/stdlib/issues/1620), [#3514](https://github.com/stdlib-js/stdlib/issues/3514), [#3515](https://github.com/stdlib-js/stdlib/issues/3515), [#3516](https://github.com/stdlib-js/stdlib/issues/3516), [#3517](https://github.com/stdlib-js/stdlib/issues/3517), [#3518](https://github.com/stdlib-js/stdlib/issues/3518), [#3519](https://github.com/stdlib-js/stdlib/issues/3519), [#3520](https://github.com/stdlib-js/stdlib/issues/3520), [#3521](https://github.com/stdlib-js/stdlib/issues/3521), [#3522](https://github.com/stdlib-js/stdlib/issues/3522), [#3523](https://github.com/stdlib-js/stdlib/issues/3523), [#3524](https://github.com/stdlib-js/stdlib/issues/3524), [#3525](https://github.com/stdlib-js/stdlib/issues/3525), [#3526](https://github.com/stdlib-js/stdlib/issues/3526), [#8168](https://github.com/stdlib-js/stdlib/issues/8168)
+[#1620](https://github.com/stdlib-js/stdlib/issues/1620), [#3514](https://github.com/stdlib-js/stdlib/issues/3514), [#3515](https://github.com/stdlib-js/stdlib/issues/3515), [#3516](https://github.com/stdlib-js/stdlib/issues/3516), [#3517](https://github.com/stdlib-js/stdlib/issues/3517), [#3518](https://github.com/stdlib-js/stdlib/issues/3518), [#3519](https://github.com/stdlib-js/stdlib/issues/3519), [#3520](https://github.com/stdlib-js/stdlib/issues/3520), [#3521](https://github.com/stdlib-js/stdlib/issues/3521), [#3522](https://github.com/stdlib-js/stdlib/issues/3522), [#3523](https://github.com/stdlib-js/stdlib/issues/3523), [#3524](https://github.com/stdlib-js/stdlib/issues/3524), [#3525](https://github.com/stdlib-js/stdlib/issues/3525), [#3526](https://github.com/stdlib-js/stdlib/issues/3526), [#8168](https://github.com/stdlib-js/stdlib/issues/8168), [#9567](https://github.com/stdlib-js/stdlib/issues/9567)
 
 </section>
 
@@ -60,6 +60,8 @@ A total of 15 issues were closed in this release:
 
 <details>
 
+-   [`590f3d5`](https://github.com/stdlib-js/stdlib/commit/590f3d50f63756ba32242c90aa0d0ef672180159) - **test:** remove duplicate test cases in `stats/base/dists/cosine` packages _(by Philipp Burckhardt)_
+-   [`a7a77a7`](https://github.com/stdlib-js/stdlib/commit/a7a77a7ba28bc0f55275db3a77a0117f0679b317) - **test:** remove duplicate NaN test cases in normal mean [(#9588)](https://github.com/stdlib-js/stdlib/pull/9588) _(by Suyash Pathak)_
 -   [`9b13062`](https://github.com/stdlib-js/stdlib/commit/9b130625f0f19866a877023e9be85204636ef01e) - **docs:** fix return values in TSDoc return annotation comments _(by Philipp Burckhardt)_
 -   [`b893587`](https://github.com/stdlib-js/stdlib/commit/b893587169727ab72e382fe40ff2c0b9bb7078e7) - **chore:** resolve lint failures _(by Athan Reines)_
 -   [`97684e4`](https://github.com/stdlib-js/stdlib/commit/97684e405691f707a532d542ea0f4ea106234588) - **chore:** fix EditorConfig lint errors [(#8178)](https://github.com/stdlib-js/stdlib/pull/8178) _(by navyansh007, Philipp Burckhardt)_
@@ -129,7 +131,7 @@ A total of 15 issues were closed in this release:
 
 ### Contributors
 
-A total of 10 people contributed to this release. Thank you to the following contributors:
+A total of 11 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
@@ -140,6 +142,7 @@ A total of 10 people contributed to this release. Thank you to the following con
 -   Kohantika Nath
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
+-   Suyash Pathak
 -   navyansh007
 
 </section>
