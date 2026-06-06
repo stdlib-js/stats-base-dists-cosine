@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-13)
+## Unreleased (2026-06-06)
 
 <section class="commits">
 
@@ -12,6 +12,9 @@
 
 <details>
 
+-   [`d1e7564`](https://github.com/stdlib-js/stdlib/commit/d1e75645e79c0cc2e5ac4b784260bc8728d8e6d4) - **docs:** update `stats/base/dists/cosine` TypeScript declarations [(#12599)](https://github.com/stdlib-js/stdlib/pull/12599) _(by stdlib-bot)_
+-   [`7587c51`](https://github.com/stdlib-js/stdlib/commit/7587c516c9cf38a7048079bf01c42135061b8d98) - **docs:** propagate TSDoc declaration fixes to sibling packages [(#12524)](https://github.com/stdlib-js/stdlib/pull/12524) _(by Philipp Burckhardt)_
+-   [`f59b324`](https://github.com/stdlib-js/stdlib/commit/f59b324c3c652580e17c4c4baae8168faab8af8c) - **docs:** fix typos and copy-paste errors in `stats` TypeScript declarations [(#12482)](https://github.com/stdlib-js/stdlib/pull/12482) _(by Philipp Burckhardt, Athan Reines)_
 -   [`f39d0f8`](https://github.com/stdlib-js/stdlib/commit/f39d0f85d898915a1c8fd30cbc7c5847f0aa8916) - **docs:** update namespace table of contents [(#12109)](https://github.com/stdlib-js/stdlib/pull/12109) _(by stdlib-bot)_
 -   [`5e6cc52`](https://github.com/stdlib-js/stdlib/commit/5e6cc5227f955ebcce1827cd5f87261c0ec44001) - **docs:** normalize descriptions in `stats/base/dists/cosine/{ctor,logcdf}` [(#12103)](https://github.com/stdlib-js/stdlib/pull/12103) _(by Philipp Burckhardt)_
 -   [`1d12a90`](https://github.com/stdlib-js/stdlib/commit/1d12a90aff52e001ed123ce3f7a42e034f57c021) - **docs:** use correct `s` predicate in `stats/base/dists/cosine/mgf` [(#12101)](https://github.com/stdlib-js/stdlib/pull/12101) _(by Philipp Burckhardt)_
@@ -31,8 +34,9 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Bhargav Dabhade
 -   Om-A-osc
 -   Philipp Burckhardt
