@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-02)
+## Unreleased (2026-09-22)
 
 <section class="commits">
 
@@ -12,6 +12,12 @@
 
 <details>
 
+-   [`6f8db9a`](https://github.com/stdlib-js/stdlib/commit/6f8db9ab25ff50396a8046b5db8955c8320856f9) - **test:** migrate `stats/base/dists/cosine/pdf` to ULP-based assertions [(#15040)](https://github.com/stdlib-js/stdlib/pull/15040) _(by Athan Reines)_
+-   [`df73320`](https://github.com/stdlib-js/stdlib/commit/df733204b985706d7496a9df9f064c4eac2f4b78) - **test:** migrate `stats/base/dists/cosine/logpdf` to ULP-based assertions [(#14984)](https://github.com/stdlib-js/stdlib/pull/14984) _(by Aryan kumar)_
+-   [`6928c32`](https://github.com/stdlib-js/stdlib/commit/6928c3200b43270463bde4268a851b19171c4435) - **test:** migrate `stats/base/dists/cosine/cdf` to ULP-based assertions [(#14859)](https://github.com/stdlib-js/stdlib/pull/14859) _(by Philipp Burckhardt)_
+-   [`b9640e6`](https://github.com/stdlib-js/stdlib/commit/b9640e6f0df92265e9ce444690ea4b3b02ce5616) - **test:** migrate `stats/base/dists/cosine/variance` to ULP-based assertions [(#14804)](https://github.com/stdlib-js/stdlib/pull/14804) _(by Athan Reines)_
+-   [`08eda55`](https://github.com/stdlib-js/stdlib/commit/08eda5552af7b0d2152b071b920058d4f734d2f9) - **test:** migrate `stats/base/dists/cosine/logcdf` to ULP-based assertions [(#14645)](https://github.com/stdlib-js/stdlib/pull/14645) _(by Athan Reines)_
+-   [`83e21db`](https://github.com/stdlib-js/stdlib/commit/83e21db95ac994a1b151aa723e8a36c9245e2eeb) - **test:** migrate `stats/base/dists/cosine/stdev` to ULP-based assertions [(#14211)](https://github.com/stdlib-js/stdlib/pull/14211) _(by Athan Reines)_
 -   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`2cee50a`](https://github.com/stdlib-js/stdlib/commit/2cee50a75da1437551b91682b8785dbae8ab897f) - **docs:** update Markdown equation elements [(#13547)](https://github.com/stdlib-js/stdlib/pull/13547) _(by stdlib-bot, Athan Reines)_
@@ -42,8 +48,9 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Aryan kumar
 -   Athan Reines
 -   Bhargav Dabhade
 -   Om-A-osc
