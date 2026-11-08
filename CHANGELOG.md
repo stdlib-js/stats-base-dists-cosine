@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-22)
+## Unreleased (2026-11-08)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`7349dff`](https://github.com/stdlib-js/stdlib/commit/7349dffeddd90289879f06e70acc1be8544af75b) - **style:** add missing whitespace [(#16507)](https://github.com/stdlib-js/stdlib/pull/16507) _(by Philipp Burckhardt)_
+-   [`75a4fb6`](https://github.com/stdlib-js/stdlib/commit/75a4fb6f2047634e174128581a45f8d5ca2229fc) - **test:** migrate `stats/base/dists/cosine/quantile` to ULP-based assertions [(#15563)](https://github.com/stdlib-js/stdlib/pull/15563) _(by Athan Reines)_
 -   [`6f8db9a`](https://github.com/stdlib-js/stdlib/commit/6f8db9ab25ff50396a8046b5db8955c8320856f9) - **test:** migrate `stats/base/dists/cosine/pdf` to ULP-based assertions [(#15040)](https://github.com/stdlib-js/stdlib/pull/15040) _(by Athan Reines)_
 -   [`df73320`](https://github.com/stdlib-js/stdlib/commit/df733204b985706d7496a9df9f064c4eac2f4b78) - **test:** migrate `stats/base/dists/cosine/logpdf` to ULP-based assertions [(#14984)](https://github.com/stdlib-js/stdlib/pull/14984) _(by Aryan kumar)_
 -   [`6928c32`](https://github.com/stdlib-js/stdlib/commit/6928c3200b43270463bde4268a851b19171c4435) - **test:** migrate `stats/base/dists/cosine/cdf` to ULP-based assertions [(#14859)](https://github.com/stdlib-js/stdlib/pull/14859) _(by Philipp Burckhardt)_
